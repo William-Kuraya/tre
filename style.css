@@ -1,0 +1,126 @@
+*{
+    font-family: Arial;
+}
+nav {
+    background-color: black;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    font-size: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 5px 10px;
+}
+
+nav a:hover {
+    background-color: #ddd;
+}
+.to{
+    padding-right: 700px;
+    color: white;;
+}
+#er{
+    background-color: gold;
+    color:  blueviolet;
+    text-align: center; 
+}
+.wr{
+    color: white;
+    background-color: black;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.wr:hover{
+    opacity: 0.7;
+    transition: 0.25s;
+}
+.wr:active{
+    background-color: white;
+    color: black;
+}
+.vb{
+    background-color: blue;
+    color: black;
+    font-size: 27px;  
+}
+#we{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.rt{
+    background-color: black;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 30px;
+}
+.rt:hover{
+    opacity: 0.7;
+    transition: 0.25s;
+    cursor: pointer;
+}
+.rt:active{
+    background-color: white;
+    color: black;
+}
+.kl{
+    background-color: black;
+    color: white;
+    border-radius: 2px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.sf{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.xc{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.bn{
+    font-size: 18px;
+}
+.df{
+    background-color: black;
+    color: white;
+    list-style: none;
+}
+.po{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.ko{
+    text-align: center;
+    background-color: palevioletred;
+}
+.ref{
+    color: white;
+}
